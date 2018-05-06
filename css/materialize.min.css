@@ -145,6 +145,29 @@ a.navtxts:hover {
 	
 }
 
+.pictureboard {
+	height: 50%;
+	width: 100%;
+	margin-top: 30px;
+
+}
+
+
+h4.boardpassers {
+ font-size: 25px;
+ margin-top: -30px;
+
+}
+
+iframe {
+	width: 200px;
+	height: 300px;
+
+}
+
+h4.callvisit{
+	font-size: 18px;
+}
 
 
 
@@ -175,7 +198,7 @@ a.navtxts:hover {
 }
 
 
-h4 {
+h4.navtxt {
 
 	font-family:'showcard';
 
@@ -193,23 +216,32 @@ h4 {
      font-family:'showcard';
      font-size: 20px;
      margin-top: -30px;
+     color: #0D2C54;
 
    
   }
 
-  a.navtxts {
-	color: white;
+  h4.navtxts {
+	color:  #0D2C54;
 	font-size: 20px;
 	letter-spacing: 1px;
 	 font-family:'showcard';
 }
 
-a.navtxts:hover {
-	color: #00C1AB;
+a.navtxts {
+	color: #0D2C54;
 
 	
 }
 
+iframe {
+	width: 500px;
+	height: 600px;
+}
+
+h4.callvisit{
+	font-size: 20px;
+}
 
 
 }
@@ -220,6 +252,10 @@ a.navtxts:hover {
 .smallbtn {
 	width: 50%;
 	height: 130%;
+}
+
+h4.callvisit{
+	font-size: 20px;
 }
 
   .mainwrapper {
@@ -293,6 +329,20 @@ a.navtxts:hover {
 
 	
 }
+
+
+.pictureboard {
+	height: 80%;
+	width: 100%;
+	margin-top: 30px;
+
+}
+
+iframe {
+	width: 700px;
+	height: 800px;
+}
+
 
 
 
